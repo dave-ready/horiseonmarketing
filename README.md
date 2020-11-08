@@ -3,6 +3,8 @@ Accessibility Homework
 
 In order to make Horiseon Marketing's wedsite more accessible, I first changed to coding from non-semantic to semantic HTML elements.  I then addded <alt> attributes to the <img> components in order to allow them to  be accessed by screen readers.  The Live URL is:
     
+https://dave-ready.github.io/horiseonmarketing/.
+    
 You can see the before and after screenshots below.
     
 Before

@@ -11,6 +11,7 @@ Before
 After
 <img width="1440" alt="screenshot" src="https://user-images.githubusercontent.com/73320561/98455297-ad0d0c80-213c-11eb-9518-d6a890a2c7e4.png">
 
+
    
 In addition to the changes above, I also cleaned up the previous HTML code and fixed the "Search Engine Optimization" link.  In the CSS file. I consolidated redundant styling code and changed the order to reflect the order of the HTML file.  Please reference the before and after screenshots of the CSS file, you will see it was condensed from 200 lines to 147
    

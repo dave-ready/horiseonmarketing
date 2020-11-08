@@ -1,7 +1,9 @@
 
 Accessibility Homework
 
-In order to make Horiseon Marketing's wedsite more accessible, I first changed to coding from non-semantic to semantic HTML elements.  I then addded <alt> attributes to the <img> components in order to allow them to  be accessed by screen readers.You can see the before and after screenshots below.
+In order to make Horiseon Marketing's wedsite more accessible, I first changed to coding from non-semantic to semantic HTML elements.  I then addded <alt> attributes to the <img> components in order to allow them to  be accessed by screen readers.  The Live URL is:
+    
+You can see the before and after screenshots below.
     
 Before
 <img width="1440" alt="screenshot1" src="https://user-images.githubusercontent.com/73320561/98455235-1ccec780-213c-11eb-9350-4a0cb2194db4.png">

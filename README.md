@@ -10,6 +10,10 @@ Before
 
 After
 <img width="1440" alt="screenshot" src="https://user-images.githubusercontent.com/73320561/98455297-ad0d0c80-213c-11eb-9518-d6a890a2c7e4.png">
+![sc2](https://user-images.githubusercontent.com/73320561/98455389-eabe6500-213d-11eb-89ab-2a71ecd1fe16.png)
+![sc3](https://user-images.githubusercontent.com/73320561/98455392-ec882880-213d-11eb-9f5a-e634ee89b3ab.png)
+![sc4](https://user-images.githubusercontent.com/73320561/98455393-ee51ec00-213d-11eb-9245-927fd5a31204.png)
+
 
 
    

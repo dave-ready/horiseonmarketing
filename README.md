@@ -1,5 +1,5 @@
 
-    Accessibility Homework
+Accessibility Homework
 
 In order to make Horiseon Marketing's wedsite more accessible, I first changed to coding from non-semantic to semantic HTML elements.  I then addded <alt> attributes to the <img> components in order to allow them to  be accessed by screen readers.You can see the before and after screenshots below.
     
@@ -14,9 +14,13 @@ After
 ![sc3](https://user-images.githubusercontent.com/73320561/98455392-ec882880-213d-11eb-9f5a-e634ee89b3ab.png)
 ![sc4](https://user-images.githubusercontent.com/73320561/98455393-ee51ec00-213d-11eb-9245-927fd5a31204.png)
 
-
-
-   
 In addition to the changes above, I also cleaned up the previous HTML code and fixed the "Search Engine Optimization" link.  In the CSS file. I consolidated redundant styling code and changed the order to reflect the order of the HTML file.  Please reference the before and after screenshots of the CSS file, you will see it was condensed from 200 lines to 147
+
+Before
+<img width="1440" alt="css1" src="https://user-images.githubusercontent.com/73320561/98455418-64565300-213e-11eb-9279-d24b86c5ea32.png">
+![css2](https://user-images.githubusercontent.com/73320561/98455419-66201680-213e-11eb-870b-ee9748b14f2b.png)
+![css3](https://user-images.githubusercontent.com/73320561/98455420-68827080-213e-11eb-9125-09799c5e6cf5.png)
+![css4](https://user-images.githubusercontent.com/73320561/98455421-6a4c3400-213e-11eb-9236-b08c0335967f.png)
+![css5](https://user-images.githubusercontent.com/73320561/98455422-6cae8e00-213e-11eb-8edd-1262008dd8b5.png)
    
    

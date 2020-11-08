@@ -24,5 +24,9 @@ Before
 ![css5](https://user-images.githubusercontent.com/73320561/98455422-6cae8e00-213e-11eb-8edd-1262008dd8b5.png)
 
 After
+<img width="1440" alt="css1" src="https://user-images.githubusercontent.com/73320561/98455479-37ef0680-213f-11eb-8407-ddbb832b9f33.png">
+![cssedit2](https://user-images.githubusercontent.com/73320561/98455483-3f161480-213f-11eb-8656-ba9dee7c4f18.png)
+![cssedit3](https://user-images.githubusercontent.com/73320561/98455486-463d2280-213f-11eb-8d12-83df87498cc0.png)
+![cssedit4](https://user-images.githubusercontent.com/73320561/98455488-4806e600-213f-11eb-9e34-e7bee84eb1e7.png)
    
    
